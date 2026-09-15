@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "portfoliocensor",
+			"path": "."
+		},
+		{
+			"name": "portfolioPM",
+			"path": "../portfolioPM"
+		}
+	],
+	"settings": {}
+}
