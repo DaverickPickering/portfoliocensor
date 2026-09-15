@@ -1,0 +1,32 @@
+    #wrapper { width: 960px;
+            background-color:#003151;
+           margin: auto;
+		   box-shadow: 5px 5px 5px #000000;
+           position: relative;}
+    .ferndale { color:gold; font-weight:bold; }
+    h1 { background-color:#012238; }
+    body { background-color:#003151;
+         color:azure;
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    hr { background-color:#001936;
+         border:none;
+          height:5px; }
+     nav { padding-top: 20px;
+        padding-right: 30px;
+        margin-top: -5px;
+        float: left;
+        width: 200px;
+        box-sizing: border-box;
+        border: 10px solid #012238; }
+    nav a { background-color:#012238;
+         color:white;
+          text-decoration:none; }
+    nav a:hover { color:cyan;}
+    nav a:visited { background-color:#012238;
+         color:gold; }
+    nav a:active { background-color:#012238;
+         color:crimson; } 
+    header, nav, main, footer { display: block; }
+    table { height:300px;
+            width:700px;
+            border-collapse: collapse; }
